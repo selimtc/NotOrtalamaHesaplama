@@ -30,5 +30,6 @@ public class Baslangic {
         String str = x ? "Tebrikler Geçtiniz." : "Maalesef Sınıfta Kaldınız";
         System.out.println(str);
 
+
     }
 }
